@@ -1,0 +1,36 @@
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000;
+}
+
+#quote-box {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+
+}
+
+#quote {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#author {
+    font-size: 18px;
+    color: #221f1fa1;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #048751;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
